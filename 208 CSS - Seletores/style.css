@@ -1,0 +1,20 @@
+#titulo{
+    background: red;
+}
+
+.title{
+    color: red;
+}
+
+.titulo{
+    background:blue;
+}
+
+h2 p{
+    color:green;
+}
+
+h1 , h2 , p {
+    text-decoration: underline;
+}
+
