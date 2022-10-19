@@ -1,0 +1,28 @@
+body{
+    font-family: arial;
+}
+strong, p span {
+    color:#febe01;
+}
+
+h1{
+    text-align: center;
+}
+
+.cart{
+    margin: 0 20px 0 20px;
+    background: #111;
+    color: #fff;
+    padding: 30px;
+    margin: 20px;
+    border-radius: 4px;
+}
+
+button{
+    display: inline-block;
+    background: #febe01;
+    color: #332200;
+    padding: 10px;
+    border-radius: 4px;
+    text-decoration: none;
+}
