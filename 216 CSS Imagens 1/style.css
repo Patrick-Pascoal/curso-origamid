@@ -1,0 +1,11 @@
+h1{
+    text-align: center;
+}
+
+.fotos img {
+    width: 100%;
+}
+
+.fotos- img {
+    max-width: 10%;
+}
