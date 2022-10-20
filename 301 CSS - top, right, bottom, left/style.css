@@ -1,0 +1,37 @@
+h1{
+    text-align:center ;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+
+    margin: 80 40 10 300;
+}
+div{
+   
+    background: grey;
+}
+
+p{
+    text-align: center;
+}
+.top{
+padding-top: 200px;
+background: darkblue;
+color: aliceblue;
+}
+.right{
+padding-right: 500px;
+background: darkcyan;
+}
+
+.bottom{
+padding-bottom: 200px;
+background: darkkhaki;
+}
+
+.left{
+padding-left: 500px;
+background: darkred;
+}
