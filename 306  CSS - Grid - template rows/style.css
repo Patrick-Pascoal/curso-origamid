@@ -1,0 +1,48 @@
+.container{
+    display: grid;
+    gap: 10px;
+}
+
+.head{
+    background: #0b5f91;
+    border:  solid red;
+    border-radius:  20px 20px 0px 0px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+}
+.head h2 {
+    color:black ;
+    padding-right: 80px;
+
+    display: grid;
+    justify-content: center;
+    grid-row: 1;
+    grid-template-columns: 3;
+    grid-column: 1/3;
+}
+.head h3 {
+    display: grid;
+    justify-content: center;
+    grid-row: 2;
+
+}
+.temporada{
+    background: #0b5f91;
+    display: grid;
+    grid-template-columns: 1fr;
+    padding-left: 90px;
+    border-bottom: solid black;
+}
+
+.equipes{
+    background: #0b5f91;
+    display: grid;
+    grid-template-columns: 1fr;
+    padding-left: 90px;
+    border-bottom: solid black;
+}
+
+.pontos{
+    display: grid;
+    grid-template-columns: repeat(8,1fr);
+}
