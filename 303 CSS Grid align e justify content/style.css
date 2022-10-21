@@ -1,0 +1,29 @@
+h1{
+text-align: center;
+}
+.container-grid{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    align-content: center;
+    gap: 20px 60px;
+
+    height: 1000px;
+    margin: auto 60px auto;
+}
+
+.item{
+    display:grid;
+    grid-template-columns: 1fr 1fr;
+    justify-content: center;
+   
+
+    background: darkgray;
+}
+
+.item h2 {
+    text-align: center;
+}
+
+.item p, a {
+    text-align: start;
+}
