@@ -1,0 +1,13 @@
+.flex1{
+display: flex;
+}
+body{
+    margin: 0;
+}
+
+.flex1 h2{
+    background: gray;
+    border: 1px solid white;
+    padding: 20px;
+    flex: 1;
+}
