@@ -1,0 +1,16 @@
+div{
+    border :2px solid darkblue;
+    padding: 20px 20px 200px 20px;
+}
+
+span{
+    width: 50px;
+    border:1px solid black;
+    padding: 20px;
+    font-size: 20px;
+    margin: 0px;
+    position: relative;
+    top:-10;
+    
+
+}
